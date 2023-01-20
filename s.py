@@ -1,5 +1,11 @@
 import pandas as pd
 
+import urllib.request
+
+class AppURLopener(urllib.request.FancyURLopener):
+    version = "Mozilla/5.0"
+
+
 
 
 def getdata(urls):
@@ -25,10 +31,11 @@ n = int(input("Enter the number of urls"))
 
 urls = []
 
+opener = AppURLopener()
 for i in range(0,n):
 
     ele = input()
-    urls.append(ele)
+    urls.append(opener.open(ele))
 
 
 
