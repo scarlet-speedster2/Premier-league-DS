@@ -1,5 +1,11 @@
 import pandas as pd
 
+import urllib.request
+
+class AppURLopener(urllib.request.FancyURLopener):
+    version = "Mozilla/5.0"
+
+
 
 
 def getdata(urls):
