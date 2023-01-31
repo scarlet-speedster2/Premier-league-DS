@@ -27,14 +27,17 @@ def getdata(urls):
 
 
 
+
+
 n = int(input("Enter the number of urls"))
 
 urls = []
+opener = AppURLopener()
 
 for i in range(0,n):
 
     ele = input()
-    urls.append(ele)
+    urls.append(opener.open(ele))
 
 
 
