@@ -6,10 +6,8 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-08-12,Everton,Stoke,1,0,H,79,76,3
 2017-08-12,Southampton,Swansea,0,0,D,76,75,1
 2017-08-12,Watford,Liverpool,3,3,D,77,81,-4
-2017-08-12,West Brom,Bournemouth,1,0,H,76,76,0
 2017-08-13,Man United,West Ham,4,0,H,83,77,6
 2017-08-13,Newcastle,Tottenham,0,2,A,75,83,-8
-2017-08-19,Bournemouth,Watford,0,2,A,76,77,-1
 2017-08-19,Burnley,West Brom,0,1,A,77,76,1
 2017-08-19,Leicester,Brighton,2,0,H,78,75,3
 2017-08-19,Liverpool,Crystal Palace,1,0,H,81,76,5
@@ -19,7 +17,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-08-20,Huddersfield,Newcastle,1,0,H,74,75,-1
 2017-08-20,Tottenham,Chelsea,1,2,A,83,83,0
 2017-08-21,Man City,Everton,1,1,D,84,79,5
-2017-08-26,Bournemouth,Man City,1,2,A,76,84,-8
 2017-08-26,Crystal Palace,Swansea,0,2,A,76,75,1
 2017-08-26,Huddersfield,Southampton,0,0,D,74,76,-2
 2017-08-26,Man United,Leicester,2,0,H,83,78,5
@@ -29,7 +26,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-08-27,Liverpool,Arsenal,4,0,H,81,82,-1
 2017-08-27,Tottenham,Burnley,1,1,D,83,77,6
 2017-08-27,West Brom,Stoke,1,1,D,76,76,0
-2017-09-09,Arsenal,Bournemouth,3,0,H,82,76,6
 2017-09-09,Brighton,West Brom,3,1,H,75,76,-1
 2017-09-09,Everton,Tottenham,0,3,A,79,83,-4
 2017-09-09,Leicester,Chelsea,1,2,A,78,83,-5
@@ -39,7 +35,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-09-10,Burnley,Crystal Palace,1,0,H,77,76,1
 2017-09-10,Swansea,Newcastle,0,1,A,75,75,0
 2017-09-11,West Ham,Huddersfield,2,0,H,77,74,3
-2017-09-15,Bournemouth,Brighton,2,1,H,76,75,1
 2017-09-16,Crystal Palace,Southampton,0,1,A,76,76,0
 2017-09-16,Huddersfield,Leicester,1,1,D,74,78,-4
 2017-09-16,Liverpool,Burnley,1,1,D,81,77,4
@@ -50,7 +45,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-09-17,Chelsea,Arsenal,0,0,D,83,82,1
 2017-09-17,Man United,Everton,4,0,H,83,79,4
 2017-09-23,Burnley,Huddersfield,0,0,D,77,74,3
-2017-09-23,Everton,Bournemouth,2,1,H,79,76,3
 2017-09-23,Leicester,Liverpool,2,3,A,78,81,-3
 2017-09-23,Man City,Crystal Palace,5,0,H,84,76,8
 2017-09-23,Southampton,Man United,0,1,A,76,83,-7
@@ -59,7 +53,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-09-23,West Ham,Tottenham,2,3,A,77,83,-6
 2017-09-24,Brighton,Newcastle,1,0,H,75,75,0
 2017-09-25,Arsenal,West Brom,2,0,H,82,76,6
-2017-09-30,Bournemouth,Leicester,0,0,D,76,78,-2
 2017-09-30,Chelsea,Man City,0,1,A,83,84,-1
 2017-09-30,Huddersfield,Tottenham,0,4,A,74,83,-9
 2017-09-30,Man United,Crystal Palace,4,0,H,83,76,7
@@ -74,7 +67,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-10-14,Liverpool,Man United,0,0,D,81,83,-2
 2017-10-14,Man City,Stoke,7,2,H,84,76,8
 2017-10-14,Swansea,Huddersfield,2,0,H,75,74,1
-2017-10-14,Tottenham,Bournemouth,1,0,H,83,76,7
 2017-10-14,Watford,Arsenal,2,1,H,77,82,-5
 2017-10-15,Brighton,Everton,1,1,D,75,79,-4
 2017-10-15,Southampton,Newcastle,2,2,D,76,75,1
@@ -85,12 +77,10 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-10-21,Man City,Burnley,3,0,H,84,77,7
 2017-10-21,Newcastle,Crystal Palace,1,0,H,75,76,-1
 2017-10-21,Southampton,West Brom,1,0,H,76,76,0
-2017-10-21,Stoke,Bournemouth,1,2,A,76,76,0
 2017-10-21,Swansea,Leicester,1,2,A,75,78,-3
 2017-10-22,Everton,Arsenal,2,5,A,79,82,-3
 2017-10-22,Tottenham,Liverpool,4,1,H,83,81,2
 2017-10-28,Arsenal,Swansea,2,1,H,82,75,7
-2017-10-28,Bournemouth,Chelsea,0,1,A,76,83,-7
 2017-10-28,Crystal Palace,West Ham,2,2,D,76,77,-1
 2017-10-28,Liverpool,Huddersfield,3,0,H,81,74,7
 2017-10-28,Man United,Tottenham,1,0,H,83,83,0
@@ -100,7 +90,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-10-29,Leicester,Everton,2,0,H,78,79,-1
 2017-10-30,Burnley,Newcastle,1,0,H,77,75,2
 2017-11-04,Huddersfield,West Brom,1,0,H,74,76,-2
-2017-11-04,Newcastle,Bournemouth,0,1,A,75,76,-1
 2017-11-04,Southampton,Burnley,0,1,A,76,77,-1
 2017-11-04,Stoke,Leicester,2,2,D,76,78,-2
 2017-11-04,Swansea,Brighton,0,1,A,75,75,0
@@ -110,7 +99,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-11-05,Man City,Arsenal,3,1,H,84,82,2
 2017-11-05,Tottenham,Crystal Palace,1,0,H,83,76,7
 2017-11-18,Arsenal,Tottenham,2,0,H,82,83,-1
-2017-11-18,Bournemouth,Huddersfield,4,0,H,76,74,2
 2017-11-18,Burnley,Swansea,2,0,H,77,75,2
 2017-11-18,Crystal Palace,Everton,2,2,D,76,79,-3
 2017-11-18,Leicester,Man City,0,2,A,78,84,-6
@@ -124,7 +112,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-11-25,Liverpool,Chelsea,1,1,D,81,83,-2
 2017-11-25,Man United,Brighton,1,0,H,83,75,8
 2017-11-25,Newcastle,Watford,0,3,A,75,77,-2
-2017-11-25,Swansea,Bournemouth,0,0,D,75,76,-1
 2017-11-25,Tottenham,West Brom,1,1,D,83,76,7
 2017-11-26,Burnley,Arsenal,0,1,A,77,82,-5
 2017-11-26,Huddersfield,Man City,1,2,A,74,84,-10
@@ -134,7 +121,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-11-28,Watford,Man United,2,4,A,77,83,-6
 2017-11-28,West Brom,Newcastle,2,2,D,76,75,1
 2017-11-29,Arsenal,Huddersfield,5,0,H,82,74,8
-2017-11-29,Bournemouth,Burnley,1,2,A,76,77,-1
 2017-11-29,Chelsea,Swansea,1,0,H,83,75,8
 2017-11-29,Everton,West Ham,4,0,H,79,77,2
 2017-11-29,Man City,Southampton,2,1,H,84,76,8
@@ -147,10 +133,8 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-12-02,Stoke,Swansea,2,1,H,76,75,1
 2017-12-02,Watford,Tottenham,1,1,D,77,83,-6
 2017-12-02,West Brom,Crystal Palace,0,0,D,76,76,0
-2017-12-03,Bournemouth,Southampton,1,1,D,76,76,0
 2017-12-03,Man City,West Ham,2,1,H,84,77,7
 2017-12-09,Burnley,Watford,1,0,H,77,77,0
-2017-12-09,Crystal Palace,Bournemouth,2,2,D,76,76,0
 2017-12-09,Huddersfield,Brighton,2,0,H,74,75,-1
 2017-12-09,Newcastle,Leicester,2,3,A,75,78,-3
 2017-12-09,Swansea,West Brom,1,0,H,75,76,-1
@@ -163,7 +147,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-12-12,Crystal Palace,Watford,2,1,H,76,77,-1
 2017-12-12,Huddersfield,Chelsea,1,3,A,74,83,-9
 2017-12-13,Liverpool,West Brom,0,0,D,81,76,5
-2017-12-13,Man United,Bournemouth,1,0,H,83,76,7
 2017-12-13,Newcastle,Everton,0,1,A,75,79,-4
 2017-12-13,Southampton,Leicester,1,4,A,76,78,-2
 2017-12-13,Swansea,Man City,0,4,A,75,84,-9
@@ -176,7 +159,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-12-16,Man City,Tottenham,4,1,H,84,83,1
 2017-12-16,Stoke,West Ham,0,3,A,76,77,-1
 2017-12-16,Watford,Huddersfield,1,4,A,77,74,3
-2017-12-17,Bournemouth,Liverpool,0,4,A,76,81,-5
 2017-12-17,West Brom,Man United,1,2,A,76,83,-7
 2017-12-18,Everton,Swansea,3,1,H,79,75,4
 2017-12-22,Arsenal,Liverpool,3,3,D,82,81,1
@@ -184,12 +166,10 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-12-23,Burnley,Tottenham,0,3,A,77,83,-6
 2017-12-23,Everton,Chelsea,0,0,D,79,83,-4
 2017-12-23,Leicester,Man United,2,2,D,78,83,-5
-2017-12-23,Man City,Bournemouth,4,0,H,84,76,8
 2017-12-23,Southampton,Huddersfield,1,1,D,76,74,2
 2017-12-23,Stoke,West Brom,3,1,H,76,76,0
 2017-12-23,Swansea,Crystal Palace,1,1,D,75,76,-1
 2017-12-23,West Ham,Newcastle,2,3,A,77,75,2
-2017-12-26,Bournemouth,West Ham,3,3,D,76,77,-1
 2017-12-26,Chelsea,Brighton,2,0,H,83,75,8
 2017-12-26,Huddersfield,Stoke,1,1,D,74,76,-2
 2017-12-26,Liverpool,Swansea,5,0,H,81,75,6
@@ -199,7 +179,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-12-26,West Brom,Everton,0,0,D,76,79,-3
 2017-12-27,Newcastle,Man City,0,1,A,75,84,-9
 2017-12-28,Crystal Palace,Arsenal,2,3,A,76,82,-6
-2017-12-30,Bournemouth,Everton,2,1,H,76,79,-3
 2017-12-30,Chelsea,Stoke,5,0,H,83,76,7
 2017-12-30,Huddersfield,Burnley,0,0,D,74,77,-3
 2017-12-30,Liverpool,Leicester,2,1,H,81,78,3
@@ -208,7 +187,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2017-12-30,Watford,Swansea,1,2,A,77,75,2
 2017-12-31,Crystal Palace,Man City,0,0,D,76,84,-8
 2017-12-31,West Brom,Arsenal,1,1,D,76,82,-6
-2018-01-01,Brighton,Bournemouth,2,2,D,75,76,-1
 2018-01-01,Burnley,Liverpool,1,2,A,77,81,-4
 2018-01-01,Everton,Man United,0,2,A,79,83,-4
 2018-01-01,Leicester,Huddersfield,3,0,H,78,74,4
@@ -226,7 +204,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-01-13,Tottenham,Everton,4,0,H,83,79,4
 2018-01-13,Watford,Southampton,2,2,D,77,76,1
 2018-01-13,West Brom,Brighton,2,0,H,76,75,1
-2018-01-14,Bournemouth,Arsenal,2,1,H,76,82,-6
 2018-01-14,Liverpool,Man City,4,3,H,81,84,-3
 2018-01-15,Man United,Stoke,3,0,H,83,76,7
 2018-01-20,Arsenal,Crystal Palace,4,1,H,82,76,6
@@ -236,13 +213,11 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-01-20,Leicester,Watford,2,0,H,78,77,1
 2018-01-20,Man City,Newcastle,3,1,H,84,75,9
 2018-01-20,Stoke,Huddersfield,2,0,H,76,74,2
-2018-01-20,West Ham,Bournemouth,1,1,D,77,76,1
 2018-01-21,Southampton,Tottenham,1,1,D,76,83,-7
 2018-01-22,Swansea,Liverpool,1,0,H,75,81,-6
 2018-01-30,Huddersfield,Liverpool,0,3,A,74,81,-7
 2018-01-30,Swansea,Arsenal,3,1,H,75,82,-7
 2018-01-30,West Ham,Crystal Palace,1,1,D,77,76,1
-2018-01-31,Chelsea,Bournemouth,0,3,A,83,76,7
 2018-01-31,Everton,Leicester,2,1,H,79,78,1
 2018-01-31,Man City,West Brom,3,0,H,84,76,8
 2018-01-31,Newcastle,Burnley,1,1,D,75,77,-2
@@ -250,7 +225,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-01-31,Stoke,Watford,0,0,D,76,77,-1
 2018-01-31,Tottenham,Man United,2,0,H,83,83,0
 2018-02-03,Arsenal,Everton,5,1,H,82,79,3
-2018-02-03,Bournemouth,Stoke,2,1,H,76,76,0
 2018-02-03,Brighton,West Ham,3,1,H,75,77,-2
 2018-02-03,Burnley,Man City,1,1,D,77,84,-7
 2018-02-03,Leicester,Swansea,1,1,D,78,75,3
@@ -265,11 +239,9 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-02-10,Swansea,Burnley,1,0,H,75,77,-2
 2018-02-10,Tottenham,Arsenal,1,0,H,83,82,1
 2018-02-10,West Ham,Watford,2,0,H,77,77,0
-2018-02-11,Huddersfield,Bournemouth,4,1,H,74,76,-2
 2018-02-11,Newcastle,Man United,1,0,H,75,83,-8
 2018-02-11,Southampton,Liverpool,0,2,A,76,81,-5
 2018-02-12,Chelsea,West Brom,3,0,H,83,76,7
-2018-02-24,Bournemouth,Newcastle,2,2,D,76,75,1
 2018-02-24,Brighton,Swansea,4,1,H,75,75,0
 2018-02-24,Burnley,Southampton,1,1,D,77,76,1
 2018-02-24,Leicester,Stoke,1,1,D,78,76,2
@@ -280,7 +252,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-02-25,Man United,Chelsea,2,1,H,83,83,0
 2018-03-01,Arsenal,Man City,0,3,A,82,84,-2
 2018-03-03,Burnley,Everton,2,1,H,77,79,-2
-2018-03-03,Leicester,Bournemouth,1,1,D,78,76,2
 2018-03-03,Liverpool,Newcastle,2,0,H,81,75,6
 2018-03-03,Southampton,Stoke,0,0,D,76,76,0
 2018-03-03,Swansea,West Ham,4,1,H,75,77,-2
@@ -297,9 +268,7 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-03-10,West Brom,Leicester,1,4,A,76,78,-2
 2018-03-10,West Ham,Burnley,0,3,A,77,77,0
 2018-03-11,Arsenal,Watford,3,0,H,82,77,5
-2018-03-11,Bournemouth,Tottenham,1,4,A,76,83,-7
 2018-03-12,Stoke,Man City,0,2,A,76,84,-8
-2018-03-17,Bournemouth,West Brom,2,1,H,76,76,0
 2018-03-17,Huddersfield,Crystal Palace,0,2,A,74,76,-2
 2018-03-17,Liverpool,Watford,5,0,H,81,77,4
 2018-03-17,Stoke,Everton,1,2,A,76,79,-3
@@ -308,12 +277,10 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-03-31,Everton,Man City,1,3,A,79,84,-5
 2018-03-31,Man United,Swansea,2,0,H,83,75,8
 2018-03-31,Newcastle,Huddersfield,1,0,H,75,74,1
-2018-03-31,Watford,Bournemouth,2,2,D,77,76,1
 2018-03-31,West Brom,Burnley,1,2,A,76,77,-1
 2018-03-31,West Ham,Southampton,3,0,H,77,76,1
 2018-04-01,Arsenal,Stoke,3,0,H,82,76,6
 2018-04-01,Chelsea,Tottenham,1,3,A,83,83,0
-2018-04-07,Bournemouth,Crystal Palace,2,2,D,76,76,0
 2018-04-07,Brighton,Huddersfield,1,1,D,75,74,1
 2018-04-07,Everton,Liverpool,0,0,D,79,81,-2
 2018-04-07,Leicester,Newcastle,1,2,A,78,75,3
@@ -326,7 +293,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-04-14,Burnley,Leicester,2,1,H,77,78,-1
 2018-04-14,Crystal Palace,Brighton,3,2,H,76,75,1
 2018-04-14,Huddersfield,Watford,1,0,H,74,77,-3
-2018-04-14,Liverpool,Bournemouth,3,0,H,81,76,5
 2018-04-14,Southampton,Chelsea,2,3,A,76,83,-7
 2018-04-14,Swansea,Everton,1,1,D,75,79,-4
 2018-04-14,Tottenham,Man City,1,3,A,83,84,-1
@@ -334,7 +300,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-04-15,Newcastle,Arsenal,2,1,H,75,82,-7
 2018-04-16,West Ham,Stoke,1,1,D,77,76,1
 2018-04-17,Brighton,Tottenham,1,1,D,75,83,-8
-2018-04-18,Bournemouth,Man United,0,2,A,76,83,-7
 2018-04-19,Burnley,Chelsea,1,2,A,77,83,-6
 2018-04-19,Leicester,Southampton,0,0,D,78,76,2
 2018-04-21,Watford,Crystal Palace,0,0,D,77,76,1
@@ -348,13 +313,11 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-04-28,Huddersfield,Everton,0,2,A,74,79,-5
 2018-04-28,Liverpool,Stoke,0,0,D,81,76,5
 2018-04-28,Newcastle,West Brom,0,1,A,75,76,-1
-2018-04-28,Southampton,Bournemouth,2,1,H,76,76,0
 2018-04-28,Swansea,Chelsea,0,1,A,75,83,-8
 2018-04-29,Man United,Arsenal,2,1,H,83,82,1
 2018-04-29,West Ham,Man City,1,4,A,77,84,-7
 2018-04-30,Tottenham,Watford,2,0,H,83,77,6
 2018-05-04,Brighton,Man United,1,0,H,75,83,-8
-2018-05-05,Bournemouth,Swansea,1,0,H,76,75,1
 2018-05-05,Everton,Southampton,1,1,D,79,76,3
 2018-05-05,Leicester,West Ham,0,2,A,78,77,1
 2018-05-05,Stoke,Crystal Palace,1,2,A,76,76,0
@@ -369,7 +332,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HomeOVA,AwayOVA,OVA_diff
 2018-05-09,Man City,Brighton,3,1,H,84,75,9
 2018-05-09,Tottenham,Newcastle,1,0,H,83,75,8
 2018-05-10,West Ham,Man United,0,0,D,77,83,-6
-2018-05-13,Burnley,Bournemouth,1,2,A,77,76,1
 2018-05-13,Crystal Palace,West Brom,2,0,H,76,76,0
 2018-05-13,Huddersfield,Arsenal,0,1,A,74,82,-8
 2018-05-13,Liverpool,Brighton,4,0,H,81,75,6

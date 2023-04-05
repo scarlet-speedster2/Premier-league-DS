@@ -100,9 +100,13 @@ def merge_ova_to_cleaned(ova_path, cleaned_path):
     cleaned_df = pd.read_csv(cleaned_path)
 
     ova_df.set_index('Team', inplace=True)
+    print(cleaned_df)
+    cleaned_df = cleaned_df.drop(cleaned_df[(cleaned_df['HomeTeam'] == 'Nottingham Forest FC') | (cleaned_df['AwayTeam'] == 'Nottingham Forest FC')].index)
+    cleaned_df = cleaned_df.drop(cleaned_df[(cleaned_df['HomeTeam'] == 'Bournemouth') | (cleaned_df['AwayTeam'] == 'Bournemouth')].index)
 
     home_ovas, away_ovas = [], []
     for _, row in cleaned_df.iterrows():
+
         HT = convert_team_name(row['HomeTeam'])
         AT = convert_team_name(row['AwayTeam'])
         home_ovas.append(ova_df.loc[HT]['OVA'])

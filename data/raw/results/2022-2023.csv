@@ -59,10 +59,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 2022-09-03,Aston Villa,Man City,1.0,1.0,D
 2022-09-04,Brighton,Leicester,5.0,2.0,H
 2022-09-04,Man United,Arsenal,3.0,1.0,H
-2022-09-10,Leicester,Aston Villa,,,
-2022-09-10,Bournemouth,Brighton,,,
-2022-09-11,West Ham,Newcastle,,,
-2022-09-12,Leeds,Nottingham Forest FC,,,
 2022-09-16,Nottingham Forest FC,Fulham,2.0,3.0,A
 2022-09-16,Aston Villa,Southampton,1.0,0.0,H
 2022-09-17,Wolves,Man City,0.0,3.0,A
@@ -70,7 +66,6 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 2022-09-17,Tottenham,Leicester,6.0,2.0,H
 2022-09-18,Brentford,Arsenal,0.0,3.0,A
 2022-09-18,Everton,West Ham,1.0,0.0,H
-2022-09-18,Chelsea,Liverpool,,,
 2022-10-01,Arsenal,Tottenham,3.0,1.0,H
 2022-10-01,Southampton,Everton,1.0,2.0,A
 2022-10-01,Liverpool,Brighton,3.0,3.0,D
@@ -215,140 +210,145 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 2023-02-05,Tottenham,Man City,1.0,0.0,H
 2023-02-08,Man United,Leeds,2.0,2.0,D
 2023-02-11,West Ham,Chelsea,1.0,1.0,D
-2023-02-11,Southampton,Wolves,,,
-2023-02-11,Leicester,Tottenham,,,
-2023-02-11,Fulham,Nottingham Forest FC,,,
-2023-02-11,Crystal Palace,Brighton,,,
-2023-02-11,Arsenal,Brentford,,,
-2023-02-11,Bournemouth,Newcastle,,,
-2023-02-12,Leeds,Man United,,,
-2023-02-12,Man City,Aston Villa,,,
-2023-02-13,Liverpool,Everton,,,
-2023-02-15,Arsenal,Man City,,,
-2023-02-18,Aston Villa,Arsenal,,,
-2023-02-18,Wolves,Bournemouth,,,
-2023-02-18,Nottingham Forest FC,Man City,,,
-2023-02-18,Everton,Leeds,,,
-2023-02-18,Chelsea,Southampton,,,
-2023-02-18,Brighton,Fulham,,,
-2023-02-18,Brentford,Crystal Palace,,,
-2023-02-18,Newcastle,Liverpool,,,
-2023-02-19,Man United,Leicester,,,
-2023-02-19,Tottenham,West Ham,,,
-2023-02-24,Fulham,Wolves,,,
+2023-02-11,Southampton,Wolves,1.0,2.0,A
+2023-02-11,Leicester,Tottenham,4.0,1.0,H
+2023-02-11,Fulham,Nottingham Forest FC,2.0,0.0,H
+2023-02-11,Crystal Palace,Brighton,1.0,1.0,D
+2023-02-11,Arsenal,Brentford,1.0,1.0,D
+2023-02-11,Bournemouth,Newcastle,1.0,1.0,D
+2023-02-12,Leeds,Man United,0.0,2.0,A
+2023-02-12,Man City,Aston Villa,3.0,1.0,H
+2023-02-13,Liverpool,Everton,2.0,0.0,H
+2023-02-15,Arsenal,Man City,1.0,3.0,A
+2023-02-18,Aston Villa,Arsenal,2.0,4.0,A
+2023-02-18,Wolves,Bournemouth,0.0,1.0,A
+2023-02-18,Nottingham Forest FC,Man City,1.0,1.0,D
+2023-02-18,Everton,Leeds,1.0,0.0,H
+2023-02-18,Chelsea,Southampton,0.0,1.0,A
+2023-02-18,Brighton,Fulham,0.0,1.0,A
+2023-02-18,Brentford,Crystal Palace,1.0,1.0,D
+2023-02-18,Newcastle,Liverpool,0.0,2.0,A
+2023-02-19,Man United,Leicester,3.0,0.0,H
+2023-02-19,Tottenham,West Ham,2.0,0.0,H
+2023-02-24,Fulham,Wolves,1.0,1.0,D
 2023-02-25,Newcastle,Brighton,,,
-2023-02-25,West Ham,Nottingham Forest FC,,,
-2023-02-25,Leicester,Arsenal,,,
-2023-02-25,Leeds,Southampton,,,
-2023-02-25,Everton,Aston Villa,,,
-2023-02-25,Bournemouth,Man City,,,
-2023-02-25,Crystal Palace,Liverpool,,,
-2023-02-26,Tottenham,Chelsea,,,
-2023-02-26,Man United,Brentford,,,
-2023-03-01,Arsenal,Everton,,,
-2023-03-01,Liverpool,Wolves,,,
-2023-03-04,Man City,Newcastle,,,
-2023-03-04,Wolves,Tottenham,,,
-2023-03-04,Chelsea,Leeds,,,
-2023-03-04,Brighton,West Ham,,,
-2023-03-04,Aston Villa,Crystal Palace,,,
-2023-03-04,Arsenal,Bournemouth,,,
-2023-03-04,Southampton,Leicester,,,
-2023-03-05,Nottingham Forest FC,Everton,,,
-2023-03-05,Liverpool,Man United,,,
-2023-03-06,Brentford,Fulham,,,
-2023-03-11,Bournemouth,Liverpool,,,
-2023-03-11,Tottenham,Nottingham Forest FC,,,
-2023-03-11,Man United,Southampton,,,
-2023-03-11,Leicester,Chelsea,,,
-2023-03-11,Leeds,Brighton,,,
-2023-03-11,Everton,Brentford,,,
-2023-03-11,Crystal Palace,Man City,,,
-2023-03-12,West Ham,Aston Villa,,,
-2023-03-12,Fulham,Arsenal,,,
-2023-03-12,Newcastle,Wolves,,,
-2023-03-15,Southampton,Brentford,,,
-2023-03-16,Brighton,Crystal Palace,,,
-2023-03-17,Nottingham Forest FC,Newcastle,,,
-2023-03-18,Wolves,Leeds,,,
-2023-03-18,Southampton,Tottenham,,,
-2023-03-18,Liverpool,Fulham,,,
-2023-03-18,Brentford,Leicester,,,
-2023-03-18,Aston Villa,Bournemouth,,,
-2023-03-18,Chelsea,Everton,,,
-2023-03-19,Brighton,Man United,,,
-2023-03-19,Arsenal,Crystal Palace,,,
-2023-03-19,Man City,West Ham,,,
-2023-04-01,West Ham,Southampton,,,
-2023-04-01,Nottingham Forest FC,Wolves,,,
-2023-04-01,Newcastle,Man United,,,
-2023-04-01,Man City,Liverpool,,,
-2023-04-01,Everton,Tottenham,,,
-2023-04-01,Crystal Palace,Leicester,,,
-2023-04-01,Chelsea,Aston Villa,,,
-2023-04-01,Brighton,Brentford,,,
-2023-04-01,Bournemouth,Fulham,,,
-2023-04-01,Arsenal,Leeds,,,
+2023-02-25,West Ham,Nottingham Forest FC,4.0,0.0,H
+2023-02-25,Leicester,Arsenal,0.0,1.0,A
+2023-02-25,Leeds,Southampton,1.0,0.0,H
+2023-02-25,Everton,Aston Villa,0.0,2.0,A
+2023-02-25,Bournemouth,Man City,1.0,4.0,A
+2023-02-25,Crystal Palace,Liverpool,0.0,0.0,D
+2023-02-26,Tottenham,Chelsea,2.0,0.0,H
+2023-03-01,Arsenal,Everton,4.0,0.0,H
+2023-03-01,Liverpool,Wolves,2.0,0.0,H
+2023-03-04,Man City,Newcastle,2.0,0.0,H
+2023-03-04,Wolves,Tottenham,1.0,0.0,H
+2023-03-04,Chelsea,Leeds,1.0,0.0,H
+2023-03-04,Brighton,West Ham,4.0,0.0,H
+2023-03-04,Aston Villa,Crystal Palace,1.0,0.0,H
+2023-03-04,Arsenal,Bournemouth,3.0,2.0,H
+2023-03-04,Southampton,Leicester,1.0,0.0,H
+2023-03-05,Nottingham Forest FC,Everton,2.0,2.0,D
+2023-03-05,Liverpool,Man United,7.0,0.0,H
+2023-03-06,Brentford,Fulham,3.0,2.0,H
+2023-03-11,Bournemouth,Liverpool,1.0,0.0,H
+2023-03-11,Tottenham,Nottingham Forest FC,3.0,1.0,H
+2023-03-11,Leicester,Chelsea,1.0,3.0,A
+2023-03-11,Leeds,Brighton,2.0,2.0,D
+2023-03-11,Everton,Brentford,1.0,0.0,H
+2023-03-11,Crystal Palace,Man City,0.0,1.0,A
+2023-03-12,West Ham,Aston Villa,1.0,1.0,D
+2023-03-12,Man United,Southampton,0.0,0.0,D
+2023-03-12,Fulham,Arsenal,0.0,3.0,A
+2023-03-12,Newcastle,Wolves,2.0,1.0,H
+2023-03-15,Brighton,Crystal Palace,1.0,0.0,H
+2023-03-15,Southampton,Brentford,0.0,2.0,A
+2023-03-17,Nottingham Forest FC,Newcastle,1.0,2.0,A
+2023-03-18,Wolves,Leeds,2.0,4.0,A
+2023-03-18,Southampton,Tottenham,3.0,3.0,D
+2023-03-18,Brentford,Leicester,1.0,1.0,D
+2023-03-18,Aston Villa,Bournemouth,3.0,0.0,H
+2023-03-18,Chelsea,Everton,2.0,2.0,D
+2023-03-19,Arsenal,Crystal Palace,4.0,1.0,H
+2023-04-01,Man City,Liverpool,4.0,1.0,H
+2023-04-01,Nottingham Forest FC,Wolves,1.0,1.0,D
+2023-04-01,Crystal Palace,Leicester,2.0,1.0,H
+2023-04-01,Brighton,Brentford,3.0,3.0,D
+2023-04-01,Bournemouth,Fulham,2.0,1.0,H
+2023-04-01,Arsenal,Leeds,4.0,1.0,H
+2023-04-01,Chelsea,Aston Villa,0.0,2.0,A
+2023-04-02,West Ham,Southampton,1.0,0.0,H
+2023-04-02,Newcastle,Man United,2.0,0.0,H
+2023-04-03,Everton,Tottenham,1.0,1.0,D
+2023-04-04,Leicester,Aston Villa,1.0,2.0,A
+2023-04-04,Leeds,Nottingham Forest FC,2.0,1.0,H
+2023-04-04,Bournemouth,Brighton,0.0,2.0,A
+2023-04-04,Chelsea,Liverpool,0.0,0.0,D
+2023-04-05,West Ham,Newcastle,,,
+2023-04-05,Man United,Brentford,,,
+2023-04-08,Man United,Everton,,,
 2023-04-08,Wolves,Chelsea,,,
 2023-04-08,Tottenham,Brighton,,,
-2023-04-08,Southampton,Man City,,,
-2023-04-08,Man United,Everton,,,
-2023-04-08,Liverpool,Arsenal,,,
 2023-04-08,Leicester,Bournemouth,,,
-2023-04-08,Leeds,Crystal Palace,,,
 2023-04-08,Fulham,West Ham,,,
 2023-04-08,Brentford,Newcastle,,,
 2023-04-08,Aston Villa,Nottingham Forest FC,,,
+2023-04-08,Southampton,Man City,,,
+2023-04-09,Leeds,Crystal Palace,,,
+2023-04-09,Liverpool,Arsenal,,,
+2023-04-15,Aston Villa,Newcastle,,,
 2023-04-15,Wolves,Brentford,,,
-2023-04-15,West Ham,Arsenal,,,
 2023-04-15,Tottenham,Bournemouth,,,
 2023-04-15,Southampton,Crystal Palace,,,
-2023-04-15,Nottingham Forest FC,Man United,,,
-2023-04-15,Man City,Leicester,,,
-2023-04-15,Leeds,Liverpool,,,
 2023-04-15,Everton,Fulham,,,
 2023-04-15,Chelsea,Brighton,,,
-2023-04-15,Aston Villa,Newcastle,,,
-2023-04-22,Newcastle,Tottenham,,,
-2023-04-22,Man United,Chelsea,,,
+2023-04-15,Man City,Leicester,,,
+2023-04-16,West Ham,Arsenal,,,
+2023-04-16,Nottingham Forest FC,Man United,,,
+2023-04-17,Leeds,Liverpool,,,
+2023-04-21,Arsenal,Southampton,,,
+2023-04-22,Fulham,Leeds,,,
 2023-04-22,Liverpool,Nottingham Forest FC,,,
 2023-04-22,Leicester,Wolves,,,
-2023-04-22,Fulham,Leeds,,,
 2023-04-22,Crystal Palace,Everton,,,
-2023-04-22,Brighton,Man City,,,
 2023-04-22,Brentford,Aston Villa,,,
-2023-04-22,Bournemouth,West Ham,,,
-2023-04-22,Arsenal,Southampton,,,
+2023-04-22,Man United,Chelsea,,,
+2023-04-23,Newcastle,Tottenham,,,
+2023-04-23,Bournemouth,West Ham,,,
+2023-04-23,Brighton,Man City,,,
 2023-04-25,Wolves,Crystal Palace,,,
-2023-04-25,West Ham,Liverpool,,,
-2023-04-25,Tottenham,Man United,,,
-2023-04-25,Nottingham Forest FC,Brighton,,,
-2023-04-25,Leeds,Leicester,,,
-2023-04-25,Everton,Newcastle,,,
 2023-04-25,Aston Villa,Fulham,,,
-2023-04-26,Southampton,Bournemouth,,,
+2023-04-25,Leeds,Leicester,,,
+2023-04-26,Nottingham Forest FC,Brighton,,,
 2023-04-26,Chelsea,Brentford,,,
+2023-04-26,West Ham,Liverpool,,,
 2023-04-26,Man City,Arsenal,,,
-2023-04-29,Newcastle,Southampton,,,
-2023-04-29,Man United,Aston Villa,,,
-2023-04-29,Liverpool,Tottenham,,,
-2023-04-29,Leicester,Everton,,,
-2023-04-29,Fulham,Man City,,,
+2023-04-27,Southampton,Bournemouth,,,
+2023-04-27,Everton,Newcastle,,,
+2023-04-27,Tottenham,Man United,,,
 2023-04-29,Crystal Palace,West Ham,,,
 2023-04-29,Brighton,Wolves,,,
 2023-04-29,Brentford,Nottingham Forest FC,,,
-2023-04-29,Bournemouth,Leeds,,,
 2023-04-29,Arsenal,Chelsea,,,
+2023-04-30,Newcastle,Southampton,,,
+2023-04-30,Man United,Aston Villa,,,
+2023-04-30,Fulham,Man City,,,
+2023-04-30,Bournemouth,Leeds,,,
+2023-04-30,Liverpool,Tottenham,,,
+2023-05-01,Leicester,Everton,,,
+2023-05-03,Man City,West Ham,,,
+2023-05-03,Liverpool,Fulham,,,
+2023-05-04,Brighton,Man United,,,
 2023-05-06,Wolves,Aston Villa,,,
-2023-05-06,West Ham,Man United,,,
 2023-05-06,Tottenham,Crystal Palace,,,
-2023-05-06,Nottingham Forest FC,Southampton,,,
-2023-05-06,Newcastle,Arsenal,,,
-2023-05-06,Man City,Leeds,,,
-2023-05-06,Liverpool,Brentford,,,
-2023-05-06,Fulham,Leicester,,,
-2023-05-06,Brighton,Everton,,,
 2023-05-06,Bournemouth,Chelsea,,,
+2023-05-06,Liverpool,Brentford,,,
+2023-05-07,Man City,Leeds,,,
+2023-05-07,Newcastle,Arsenal,,,
+2023-05-07,West Ham,Man United,,,
+2023-05-08,Fulham,Leicester,,,
+2023-05-08,Brighton,Everton,,,
+2023-05-08,Nottingham Forest FC,Southampton,,,
 2023-05-13,Southampton,Fulham,,,
 2023-05-13,Man United,Wolves,,,
 2023-05-13,Leicester,Liverpool,,,

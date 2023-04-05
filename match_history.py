@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import requests
 import numpy as np
-import time
 from datetime import datetime
 
 
@@ -46,7 +45,6 @@ def get_fixtures(rawDataPath, yearFrom, yearTo):
         return os.path.join(rawDataPath, f'{year}-{year + 1}.csv')
     
     for year in range(yearFrom, yearTo + 1):
-        time.sleep(3)
         url = format_api_url(year)
         file_path = format_file_path(year)
         try:
